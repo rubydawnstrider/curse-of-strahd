@@ -1,17 +1,9 @@
 <h1>Orianna</h1>
 <h2>Tiefling Warlock of the Ancient Fey</h2>
 
-| Alignment | Gender | Pronouns | Age | Height | Weight | Skin | Eyes | Hair | Horns |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Chaotic Good | Female | she/her/hers | 30 | 5'4" | 130 | Light Purple | Purple | Midnight Blue | Purple |
-
-<div style="display:inline-block">
-  <img src="orianna-chibi1.png" style="width:400px; margin-right:10px;">
-  <img src="orianna-chibi2.png" style="width:400px">
-</div>
-
-<hr/>   
-
+<details>
+  <summary>Table Of Contents</summary>
+  
 - [Stats](#stats)
     + [Skills](#skills)
 - [Pact](#pact)
@@ -32,9 +24,20 @@
     + [First Level Spells](#first-level-spells)
     + [Second Level](#second-level-1)
     + [Third Level](#third-level-1)
+</details>
+
+<hr/> 
+
+| Alignment | Gender | Pronouns | Age | Height | Weight | Skin | Eyes | Hair | Horns |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Chaotic Good | Female | she/her/hers | 30 | 5'4" | 130 | Light Purple | Purple | Midnight Blue | Purple |
+
+<div style="display:inline-block">
+  <img src="orianna-chibi1.png" style="width:400px; margin-right:10px;">
+  <img src="orianna-chibi2.png" style="width:400px">
+</div>
 
 <hr/>   
-
 
 # Stats
 **Level** | **5** | | |
