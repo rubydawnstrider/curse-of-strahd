@@ -61,7 +61,7 @@ Speed | 30 | AC | 13 |
 Light Armor | Common | Fire Resistance | | - |
 Simple Weapons | Infernal | Dark Vision, 60 feet | Dim light within 60 feet as if it were bright light, and in darkness as if it were dim light.<br/> Can’t discern color in darkness, only shades of gray | - |
 Thieves Tools | | Infernal Legacy | Know the thaumaturgy cantrip | 1st |
-Disguise Kit | | Cast Hellish Rebuke spell once per day as a 2nd-level spell | 3rd |
+Disguise Kit | | | Cast Hellish Rebuke spell once per day as a 2nd-level spell | 3rd |
 | | | | Cast Darkness spell once per day | 5th |
 
 <br/>
@@ -180,11 +180,13 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 
 <details>
 <summary>Find Familiar Spell</summary>
-*1st-level conjuration (ritual)*
-**Casting Time:** 1 hour
-**Range:** 10 feet
-**Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
-**Duration:** Instantaneous
+  
+*1st-level conjuration (ritual)*  
+**Casting Time:** 1 hour  
+**Range:** 10 feet  
+**Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)  
+**Duration:** Instantaneous  
+
 You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in
 an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
 
