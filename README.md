@@ -302,7 +302,7 @@ Actions
 ## Third Level
 
 
-<details id="background">
+<details id="background" open>
   <summary>
     <h1>Background</h1>
   </summary>
