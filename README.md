@@ -202,6 +202,11 @@ When you hit a creature with eldritch blast, you can push the creature up to 10 
 <hr/>
 </details>
 
+<details open><summary>Level 5 Invocation TBD</summary>
+
+<hr/>
+</details>
+
 
 ## Boon
 Pact of the Chain
@@ -295,9 +300,77 @@ Actions
 
 ## Cantrip
 
+<details>
+  <summary>Thaumaturge (Racial)</summary>
+  
+  description TBD
+</details>
+
+<details>
+  <summary>Eldritch Blast</summary>
+  
+  description TBD
+</details>
+
+<details>
+  <summary>Friends</summary>
+  
+  description TBD
+</details>
+
+
+<details>
+  <summary>Mage Hand</summary>
+  
+  description TBD
+</details>
+
+
 ## First Level
 
+<details>
+  <summary>Fey Presence (Pact)</summary>
+  
+  description TBD
+</details>
+
+<details>
+  <summary>Faerie Fire</summary>
+  
+  description TBD
+</details>
+
+<details>
+  <summary>Hellish Rebuke</summary>
+  
+  description TBD
+</details>
+
+<details>
+  <summary>Hellish Rebuke (Racial)</summary>
+  
+  description TBD
+</details>
+
+<details>
+  <summary>Charm Person</summary>
+  
+  description TBD
+</details>
+
+<details>
+  <summary>Hex</summary>
+  
+  description TBD
+</details>
+
 ## Second Level
+
+<details>
+  <summary>Hold Person</summary>
+  
+  description TBD
+</details>
 
 ## Third Level
 
@@ -307,7 +380,7 @@ Actions
 <details id="bg-the-early-years">
   <summary>
     <h3>The Early Years: A Life on the Streets</h3>
-  </summary
+  </summary>
     
 _Orianna_ grew up in the roughest parts of the city, an orphan and an urchin, who learned to survive by her wits, thievery, and street-smarts. A tiefling born to two humans unaware of the infernal blood in their bloodlines. Life was cruel and unforgiving. She'd been othered in the village she was born in and later blamed when orcs attacked and killed half of the residents, including her parents. It didn't matter that she was as terrified as everyone else or that she had barely survived herself. The villagers were convinced it was her infernal blood that brought the orcs. She has been terrified of orcs ever since.
 
@@ -319,7 +392,9 @@ After a particularly dangerous confrontation with a gang when she was thirteen w
 </details>
 
 <details id="bg-the-meeting">
-  <summary><h3>The Meeting: The Fey's Intrigue</h3></summary>
+  <summary>
+    <h3>The Meeting: The Fey's Intrigue</h3>
+  </summary>
   
 The Fey did not appear with fanfare, but rather in the subtle rustling of leaves, the shimmer of distant lights, and the soft rustle of something- or someone- moving just out of view. At first, _Orianna_ thought she was hallucinating, or perhaps she was simply being haunted by the stress and exhaustion of life on the run. But then, the Fey spoke— softly, like a breeze on the wind.
 
