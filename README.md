@@ -248,11 +248,11 @@ Bonus|**\[ -2 ]**|**\[ 2 ]**|**\[ 1 ]**|**\[ 0 ]**|**\[ +1 ]**|**\[ 0 ]**|
 
 Actions
 | Name | Type | To_Hit | Reach | Damage | On_Hit_DC_Save | Fail_Results | Extra_Fail | Extra_Fail_Result
-|-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 |Bite | Melee Weapon| +4 | 5 ft| 1d4 + 2<br/>Piercing |
 |Sting| Melee Weapon| +4 | 5 ft| 1d4 + 2<br/>Piercing | DC 11 CON | Poisoned for 1 hour | Result < DC-5 (If 6 or less) | Fall unconscious for the duration |
-| | | | | | | | or until it takes damage
-| | | | | | | | or another creature uses an action to wake it
+| | | | | | | | | or until it takes damage
+| | | | | | | | | or another creature uses an action to wake it
 
 <hr/>
 </details>
