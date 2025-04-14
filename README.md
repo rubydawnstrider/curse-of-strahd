@@ -319,9 +319,7 @@ After a particularly dangerous confrontation with a gang when she was thirteen w
 </details>
 
 <details id="bg-the-meeting">
-  <summary>
-    <h3>The Meeting: The Fey's Intrigue</h3>
-  </summary>
+  <summary><h3>The Meeting: The Fey's Intrigue</h3></summary>
   
 The Fey did not appear with fanfare, but rather in the subtle rustling of leaves, the shimmer of distant lights, and the soft rustle of something- or someone- moving just out of view. At first, _Orianna_ thought she was hallucinating, or perhaps she was simply being haunted by the stress and exhaustion of life on the run. But then, the Fey spoke— softly, like a breeze on the wind.
 
