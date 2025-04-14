@@ -298,7 +298,80 @@ Actions
 
 
 # Background
-TBD
+
+<details>
+  <summary>
+    <h2>The Early Years: A Life on the Streets</h2>
+  </summary
+    
+||_Orianna_ grew up in the roughest parts of the city, an orphan and an urchin, who learned to survive by her wits, thievery, and street-smarts. A tiefling born to two humans unaware of the infernal blood in their bloodlines. Life was cruel and unforgiving. She'd been othered in the village she was born in and later blamed when orcs attacked and killed half of the residents, including her parents. It didn't matter that she was as terrified as everyone else or that she had barely survived herself. The villagers were convinced it was her infernal blood that brought the orcs. She has been terrified of orcs ever since.
+
+Forced to leave, she ended up on the streets in the somewhat nearby city of Riatvin. _Orianna_ often relied on her resourcefulness to scrape by— stealing food, hiding from watchmen, or navigating the dangerous turf wars between rival gangs and other criminals. The streets felt like a never-ending struggle, and there were few allies. But, despite the harshness of her existence, she had an unyielding determination to survive.
+
+After a particularly dangerous confrontation with a gang when she was thirteen where _Orianna_ barely escaped with her life, she had to flee the city for several weeks until things calmed down and they stopped looking for her. With nowhere to turn, she found herself wandering the city's outskirts. Eventually she ended up lost in the nearby forest of Shilmista. A part of her was terrified of the wild, unfamiliar environment, but another part— one that longed for adventure— was drawn to it. It was there, amidst the tall trees and underbrush, that she first encountered the Fey who would later become her patron.||
+
+<hr/>
+</details>
+
+<details>
+  <summary>
+    <h2>The Meeting: The Fey's Intrigue</h2>
+  </summary>
+  
+||The Fey did not appear with fanfare, but rather in the subtle rustling of leaves, the shimmer of distant lights, and the soft rustle of something- or someone- moving just out of view. At first, _Orianna_ thought she was hallucinating, or perhaps she was simply being haunted by the stress and exhaustion of life on the run. But then, the Fey spoke— softly, like a breeze on the wind.
+
+_"Not all is lost, little one."_
+
+They were intrigued by this scrappy urchin, and though _Orianna's_ situation seemed dire, the Fey found something charming in her resilience, despite having no true home or family. They offered assistance, though it wasn't in the way most mortals would expect. She saw the Fey's help as random or mysterious: a patch of berries just when she was starving, an unspoken warning that saved her from an ambush, or a sudden gust of wind that blew away her pursuers. _Echo_ is what she started calling the Fey after the way that their assistance was an echo of her need or an echo of whispered words.
+
+_Echo_'s magic wasn't always practical. Sometimes it was whimsical, confusing, or outright mischievous. One time, a fey spirit helped _Orianna_ hide from enemies by turning her invisible, but the effect wore off when she accidentally walked too loudly. Another time, _Echo_ enchanted a small stone to guide her through the forest, but it sometimes led her into dead ends or unexpected circles, just for fun as she heard faint giggles from the surrounding trees.||
+
+<hr/>
+</details>
+
+<details>
+  <summary>
+    <h2>The Fey's Pranks and Requests</h2>
+  </summary>
+  
+||Over the years, the _Echo_'s intervention continued, but with it came peculiar pranks and baffling requests. They were kind, in their own way, but their idea of "help" didn't always align with mortal understanding. Sometimes, their "gifts" seemed like tricks— a bit of magic that would leave _Orianna_ confused or amused, but never fully able to understand the reasoning behind it.
+
+_Echo_ sometimes sent _Orianna_ on random errands, giving her tasks that didn't seem to have any clear purpose or need. For instance, the Fey asked her to find a particular flower in the woods, only to discover that the flower was common and easily found, but they were delighted when she did it with such seriousness. They would also occasionally reward her with strange, but impractical, magical gifts, like an enchanted feather that occasionally allowed her to float a few inches off the floor for a brief moment only if no one else was looking or a glimmering pebble that occasionally lit up like a tiny lantern, but only in the dark and never on demand. She treasured the gifts but over time, they would always disappear again.
+
+The Fey's most frequent "gift" was visions— a soft voice that whispered advice or riddles. Sometimes, it felt like a blessing; other times, it seemed like a mischievous challenge. _Echo_ encouraged _Orianna_ to stay strong, to think creatively, and always keep moving forward, even if the path was unclear.||
+
+<hr/>
+</details>
+
+<details>
+  <summary>
+    <h2>The Formal Pact: A Growing Bond</h2>
+  </summary>
+
+||Years passed, and _Orianna's_ survival skills continued to grow. _Echo_ had become a strange, somewhat unpredictable constant in her life, a patron whose actions were puzzling but ultimately helpful, most of the time. Yet, despite the odd nature of their relationship, there was a deep connection between them. She began to realize that _Echo_'s magic might not just be random, but maybe it had a deeper purpose— she was being shaped for something greater, though she wasn't sure exactly what.
+
+As _Orianna_ grew older and wiser, she became increasingly aware of _Echo_'s influence in her life. One day, after barely escaping the goons of one of the local gangs' leaders when she refused his demand that she become "one of his girls", _Echo_ intervened to save her. As she attempted to outrun the ones chasing her, several crates happened to fall off of a roof into the alleyway just behind her. Then a door around the next turn, which was always closed and locked, swung open to an empty room. She dove inside and shut the door behind her, hoping they had lost her as the thugs ran passed. Inside the room, _Echo_ finally appeared before her fully— no longer just a whisper or a shadow in the trees, but a being of incredible beauty, power, and mystery. They spoke of the bond that had slowly been forged over the years, and in a moment of clarity, _Orianna_ realized that the Fey had been preparing her for something more. They offered her a formal pact. They weren't just offering help anymore— they wanted a true alliance, a bond of service in exchange for power. And so, _Orianna_ became a Warlock of the Fey, officially entering into the pact that had been long in the making.
+
+Though the pact was now official, _Echo_ remained whimsical in their guidance. Sometimes they gave her helpful advice, other times they sent her on strange tasks, and still others they watched from afar with amusement. The relationship had grown from one of random intervention to a formal alliance, but it was still tinged with that unpredictable, capricious nature that only the Fey could provide.||
+
+<hr/>
+</details>
+
+<details>
+  <summary>
+    <h2>A Life of Adventure</h2>
+  </summary>
+
+||The pact signed, _Orianna_ had little reason to stay in the city that had been her home for most of her life. She would never be able to get ahead where the city knew her as a street rat and urchin. Add in the unknown powers of a warlock and it would be asking for trouble to stay. With no family and no bonds besides the one with her patron, there was nothing to keep her there. She gathered what few possessions she had and left to see what the world outside had to offer.
+
+_Orianna_ moved from town to town, village to village, city to city, finding people who needed help of an adventurer. Sure she made many mistakes in the beginning, but every shortcoming just made her grit her teeth and press on. The reward only mattered if the requestor was well-off enough. Then she made sure they properly compensated her. For poorer folks or children, especially orphans, she would often do the quest regardless of the payout. They were a soft spot for  her since they reminded her of her own time growing up. How often had she wished someone would have done the same for her? She would do what she could for a place before moving on to the next. Occassionally her travels took her back to the same places again and she made some acquaintances who made it easier to get others to let her know what was needed.
+
+Sometimes, a quest would be difficult or dangerous enough that she couldn't do it alone. In those situations, she would join with other adventurers but never grew close. While _Orianna_ trusted those she'd helped before, other adventurers were an unknown, well-armed, and potentially dangerous. It was safer to work together for the quest and then go separate ways. When she would group up with someone she had worked with before, she began to trust them a little, but never enough to travel together or become or more permanent party.
+
+_Echo_ frequently had her seek out a fey or friend of the fey to complete a request for. It wasn't uncommon for these "quests" to be a prank on her or something she couldn't fathom why it was a request. One pixie had had _Orianna_ count the number of petals on every white flower in a small glade, only to tell her afterwards that she only needed the count of the petals that were purple on the flowers of which there were of course none. In time, she found that while strange, these types of requests were fun, even if the joke was aimed at her, and she began to adopt more of the fey's penchant for brightness and tricks into her own personality, though it never fully overrode her hesitance to open up when dealing with other non-fey.||
+
+<hr/>
+</details>
 
 # Warlock Class Features
 
