@@ -16,7 +16,7 @@
   * [First Level](#first-level)
   * [Second Level](#second-level)
   * [Third Level](#third-level)
-- [Background](#background)
+- [Orianna's Background](#orianna-s-background)
   * [The Early Years: A Life on the Streets](#bg-the-early-years)
   * [The Meeting: The Fey's Intrigue](#bg-the-meeting)
   * [The Fey: Pranks and Requests](#bg-the-fey)
@@ -302,14 +302,11 @@ Actions
 ## Third Level
 
 
-<details id="background" open>
-  <summary>
-    <h1>Background</h1>
-  </summary>
+# Orianna's Background
 
 <details id="bg-the-early-years">
   <summary>
-    <h2>The Early Years: A Life on the Streets</h2>
+    <h3>The Early Years: A Life on the Streets</h3>
   </summary
     
 _Orianna_ grew up in the roughest parts of the city, an orphan and an urchin, who learned to survive by her wits, thievery, and street-smarts. A tiefling born to two humans unaware of the infernal blood in their bloodlines. Life was cruel and unforgiving. She'd been othered in the village she was born in and later blamed when orcs attacked and killed half of the residents, including her parents. It didn't matter that she was as terrified as everyone else or that she had barely survived herself. The villagers were convinced it was her infernal blood that brought the orcs. She has been terrified of orcs ever since.
@@ -323,7 +320,7 @@ After a particularly dangerous confrontation with a gang when she was thirteen w
 
 <details id="bg-the-meeting">
   <summary>
-    <h2>The Meeting: The Fey's Intrigue</h2>
+    <h3>The Meeting: The Fey's Intrigue</h3>
   </summary>
   
 The Fey did not appear with fanfare, but rather in the subtle rustling of leaves, the shimmer of distant lights, and the soft rustle of something- or someone- moving just out of view. At first, _Orianna_ thought she was hallucinating, or perhaps she was simply being haunted by the stress and exhaustion of life on the run. But then, the Fey spoke— softly, like a breeze on the wind.
@@ -339,7 +336,7 @@ _Echo_'s magic wasn't always practical. Sometimes it was whimsical, confusing, o
 
 <details id="bg-the-fey">
   <summary>
-    <h2>The Fey: Pranks and Requests</h2>
+    <h3>The Fey: Pranks and Requests</h3>
   </summary>
   
 Over the years, the _Echo_'s intervention continued, but with it came peculiar pranks and baffling requests. They were kind, in their own way, but their idea of "help" didn't always align with mortal understanding. Sometimes, their "gifts" seemed like tricks— a bit of magic that would leave _Orianna_ confused or amused, but never fully able to understand the reasoning behind it.
@@ -353,7 +350,7 @@ The Fey's most frequent "gift" was visions— a soft voice that whispered advice
 
 <details id="bg-the-formal-pact">
   <summary>
-    <h2>The Formal Pact: A Growing Bond</h2>
+    <h3>The Formal Pact: A Growing Bond</h3>
   </summary>
 
 Years passed, and _Orianna's_ survival skills continued to grow. _Echo_ had become a strange, somewhat unpredictable constant in her life, a patron whose actions were puzzling but ultimately helpful, most of the time. Yet, despite the odd nature of their relationship, there was a deep connection between them. She began to realize that _Echo_'s magic might not just be random, but maybe it had a deeper purpose— she was being shaped for something greater, though she wasn't sure exactly what.
@@ -367,7 +364,7 @@ Though the pact was now official, _Echo_ remained whimsical in their guidance. S
 
 <details id="bg-the-next-stage">
   <summary>
-    <h2>The Next Stage: A Life of Adventure</h2>
+    <h3>The Next Stage: A Life of Adventure</h3>
   </summary>
 
 The pact signed, _Orianna_ had little reason to stay in the city that had been her home for most of her life. She would never be able to get ahead where the city knew her as a street rat and urchin. Add in the unknown powers of a warlock and it would be asking for trouble to stay. With no family and no bonds besides the one with her patron, there was nothing to keep her there. She gathered what few possessions she had and left to see what the world outside had to offer.
