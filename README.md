@@ -10,6 +10,32 @@
   <img src="orianna-chibi2.png" style="width:400px">
 </div>
 
+<hr/>   
+
+- [Stats](#stats)
+    + [Skills](#skills)
+- [Pact](#pact)
+  * [Pact Features](#pact-features)
+  * [Eldritch Invocations](#eldritch-invocations)
+  * [Boon](#boon)
+  * [Familiar](#familiar)
+- [Spells](#spells)
+  * [Cantrip](#cantrip)
+  * [First Level](#first-level)
+  * [Second Level](#second-level)
+  * [Third Level](#third-level)
+- [Background](#background)
+- [Warlock Class Features](#warlock-class-features)
+  * [Eldritch Invocations](#eldritch-invocations-1)
+  * [Spell List](#spell-list)
+    + [Cantrips](#cantrips)
+    + [First Level Spells](#first-level-spells)
+    + [Second Level](#second-level-1)
+    + [Third Level](#third-level-1)
+
+<hr/>   
+
+
 # Stats
 **Level** | **5** | | |
 -:|-|-:|-|
