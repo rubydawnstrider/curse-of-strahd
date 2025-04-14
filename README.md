@@ -11,14 +11,13 @@
 </div>
 
 # Stats
-| | | | | |
--:|-|-|-:|-|
-**Level** | **5** | 
-Hit Dice | 1d8 |  | Max HP | 55
-Spell Save | 16 |  | Spell Attack Bonus | +8
-Spell Casting Ability | CHA |  | Passive Wisdom (Perception) | 15
-Profiency | +3 |  | Initiative | +2
-Speed | 30 | | AC | 13 |
+**Level** | **5** | | |
+-:|-|-:|-|
+Hit Dice | 1d8 |  Max HP | 55
+Spell Save | 16 | Spell Attack Bonus | +8
+Spell Casting Ability | CHA | Passive Wisdom (Perception) | 15
+Profiency | +3 | Initiative | +2
+Speed | 30 | AC | 13 |
 <hr/>
 
 ### Skills
@@ -57,13 +56,13 @@ Speed | 30 | | AC | 13 |
 <br/>
 <hr/>
 
-|Proficiencies | Languages | Features | | Feature Detail
+|Proficiencies | Languages | Features | Feature Detail | Level |
 |-|-|-:|-|-|
-Light Armor | Common | Fire Resistance | | |
-Simple Weapons | Infernal | Dark Vision, 60 feet | | Dim light within 60 feet as if it were bright light, and in darkness as if it were dim light.<br/> Can’t discern color in darkness, only shades of gray.
-Thieves Tools | | Infernal Legacy | 1st | Know the thaumaturgy cantrip
-Disguise Kit | | | 3rd | Cast Hellish Rebuke spell once per day as a 2nd-level spell
-| | | | 5th | Cast Darkness spell once per day
+Light Armor | Common | Fire Resistance | | - |
+Simple Weapons | Infernal | Dark Vision, 60 feet | Dim light within 60 feet as if it were bright light, and in darkness as if it were dim light.<br/> Can’t discern color in darkness, only shades of gray | - |
+Thieves Tools | | Infernal Legacy | Know the thaumaturgy cantrip | 1st |
+Disguise Kit | | Cast Hellish Rebuke spell once per day as a 2nd-level spell | 3rd |
+| | | | Cast Darkness spell once per day | 5th |
 
 <br/>
 <hr/>
@@ -206,13 +205,14 @@ it. If the spell requires an attack roll, you use your attack modifier for the r
 
 ## Familiar
 Tyra - Fae Pseudodragon
-<detils>
+
+<details>
 <summary>Pseudodragon</summary>
 Tiny dragon, neutral good
 
 <br/>
 
-| | |
+| Attribute | Value |
 |-|-|
 | Armor Class| 13 (natural armor)|
 | Hit Points | 10 |
@@ -228,15 +228,15 @@ Bonus|**\[ -2 ]**|**\[ 2 ]**|**\[ 1 ]**|**\[ 0 ]**|**\[ +1 ]**|**\[ 0 ]**|
 
 <br/>
 
-| Skills | Skill Bonus | | Senses | | Languages
-|-:|:-|-|-:|:-|:-|
-| Perception | +3 | | Blindsight | 10 ft | Common (Understands)
-| Stealth | +4 | | Darkvision | 60 ft | Draconic (Understands)
-| | | | Passive Perception | 13 | Doesn't speak
+| Skills | Skill Bonus | Senses | | Languages
+|-:|:-|-:|:-|:-|
+| Perception | +3 | Blindsight | 10 ft | Common (Understands)
+| Stealth | +4 | Darkvision | 60 ft | Draconic (Understands)
+| | | Passive Perception | 13 | Doesn't speak
 
 <br/>
 
-| | |
+| Ability | Description |
 |-:|:-|
 |Keen Senses| The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell. 
 |Magic Resistance| The pseudodragon has advantage on savingthrows against spells and other magical effects.
