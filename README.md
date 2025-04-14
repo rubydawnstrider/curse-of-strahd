@@ -5,9 +5,10 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Chaotic Good | Female | she/her/hers | 30 | 5'4" | 130 | Light Purple | Purple | Midnight Blue | Purple |
 
-
-<img src="orianna-chibi1.png" style="width:300px; margin-right:10px;">
-<img src="orianna-chibi2.png" style="width:300px">
+<div style="display:inline-block">
+  <img src="orianna-chibi1.png" style="width:450px; margin-right:10px;">
+  <img src="orianna-chibi2.png" style="width:450px">
+</div>
 
 # Stats
 | | | | | |
